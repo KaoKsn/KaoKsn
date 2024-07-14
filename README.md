@@ -1,11 +1,14 @@
 👉 A beginner interested in mathematics and computing 
+<br>
 👉 Learning new things everyday.
+<br>
 👉 Interested and want to learn:
-                👉 Linux Computer Systems and Systems Administration.
-                👉 Programming languages: C++,Python, Bash
-                👉 Networking and File
-                👉 Mathematics and Computing
-                👉 Cybersecurity and AIML             
+<br>
+                👉 Linux Computer Systems and Systems Administration.<br>
+                👉 Programming languages: C++,Python, Bash<br>
+                👉 Networking and File<br>
+                👉 Mathematics and Computing<br>
+                👉 Cybersecurity and AIML <br>            
 
                 
 

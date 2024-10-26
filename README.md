@@ -5,7 +5,7 @@
 👉 Interested and want to learn:
 <br>
                 👉 Linux Computer Systems and Systems Administration.<br>
-                👉 Programming languages: C++,Python, Bash<br>
+                👉 Programming languages: C,C++,Python, Bash<br>
                 👉 Networking and File<br>
                 👉 Mathematics and Computing<br>
                 👉 Cybersecurity and AIML <br>            

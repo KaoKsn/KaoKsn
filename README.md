@@ -1,14 +1,16 @@
-👉 A beginner interested in mathematics and computing 
+👉 A undergrad interested in mathematics and computing. 
 <br>
-👉 Learning new things everyday.
+👉 Ready to learn anytime.
 <br>
 👉 Interested and want to learn:
 <br>
-                👉 Linux Computer Systems and Systems Administration.<br>
-                👉 Programming languages: C,C++,Python, Bash<br>
-                👉 Networking and File<br>
-                👉 Mathematics and Computing<br>
-                👉 Cybersecurity and AIML <br>            
+                👉 Linux OS<br>
+                👉 Git and Open Source Contributions.
+                👉 Programming languages: C,C++,Python and Bash<br>
+                👉 Computer Science Engineering<br>
+                👉 Quantum Mechanics and Quantum Computing.
+                👉 Mathematics and DSA<br>
+                
 
                 
 

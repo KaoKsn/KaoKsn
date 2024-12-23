@@ -8,7 +8,6 @@
                 👉 Git and Open Source Contributions.
                 👉 Programming languages: C,C++,Python and Bash<br>
                 👉 Computer Science Engineering<br>
-                👉 Quantum Mechanics and Quantum Computing.
                 👉 Mathematics and DSA<br>
                 
 

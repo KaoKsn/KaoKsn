@@ -1,4 +1,4 @@
-# Hi 👋 , I'm Kao
+# Hello World! 👋 , I'm Kao
 
 I'm a **freshman** studying **Computer Science**.
 - Would love to explore: **Open Source**, **Low level System Programming**, **Software Development** and someday work in a **Research Position**.

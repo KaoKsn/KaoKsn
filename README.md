@@ -39,8 +39,6 @@ Here are some small projects I’m working on (or plan to work on):
 
 When I'm not learning computer science, I enjoy learning **mathematics** and **Touch Typing**.I enjoy following **Geopolitics and International Affairs** and playing **Volleyball**.
 
-                .................
-
 <!---
 KaoKsn/KaoKsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

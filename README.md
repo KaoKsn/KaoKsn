@@ -2,7 +2,7 @@
 
 I'm a **freshman** studying **Computer Science**.
 - Would love to explore: **Open Source**, **Low level System Programming**, **Software Development** and someday work in a **Research Position**.
--Passionate about **Mathematics**, though still a beginner.
+- Passionate about **Mathematics**, though still a beginner.
 I'm excited to share my journey and projects as I continue to grow in these field.
 
 ## Currently Learning
@@ -18,7 +18,7 @@ I’m currently learning the following:
 
 Here are some small projects I’m working on (or plan to work on):
 
-1. **[C programs] – A Collection of C programs for Freshers.
+1. **C programs** – A Collection of C programs for Freshers.
 
 ## 🎯 Goals
 
@@ -37,7 +37,7 @@ Here are some small projects I’m working on (or plan to work on):
 - Typeracer : https://data.typeracer.com/pit/profile?user=_psiphi 
 
 
-When I'm not learning computer science, I enjoy learning **mathematics** and Touch Typing**.I enjoy following **Geopolitics and International Affairs** and playing **Volleyball**.
+When I'm not learning computer science, I enjoy learning **mathematics** and **Touch Typing**.I enjoy following **Geopolitics and International Affairs** and playing **Volleyball**.
 
                 .................
 

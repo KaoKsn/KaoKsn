@@ -26,7 +26,7 @@ Here are some small projects I’m working on (or plan to work on):
 - Build my Github account by **Organising the programs I write**.
 - Get familiar with tools like **Vim/Nvim** and **GitHub** for version control and deployment.
 
-## Let's Connect:
+## 🤝 Let's Connect:
 - Email: mayurakrishna.23@gmail.com
 - GitHub: https://github.com/KaoKsn/
 

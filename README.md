@@ -11,31 +11,13 @@ I’m currently learning the following:
 
 - **Programming Languages**: C, Bash.
 - **Development Tools**: Git, Vim, Linux CLI.
-- **Concepts**: Introduction to Computer Science (CS50). 
 - **Technologies**: Linux.
-
-## Coming Up...
-
-Here are some small projects I’m working on (or plan to work on):
-
-1. **C programs** – A Collection of C programs for Freshers.
-
-## 🎯 Goals
-
-- Improve my skills in **C/C++** and **Linux and Bash**.
-- Build my Github account by **Organising the programs I write**.
-- Get familiar with tools like **Vim/Nvim** and **GitHub** for version control and deployment.
 
 ## 🤝 Let's Connect:
 - Email: mayurakrishna.23@gmail.com
 - GitHub: https://github.com/KaoKsn/
 
 ## Other Interests.
-
-###  Touch Typing
-
-- Typeracer : https://data.typeracer.com/pit/profile?user=_psiphi 
-
 
 When I'm not learning computer science, I enjoy learning **mathematics** and **Touch Typing**.I enjoy following **Geopolitics and International Affairs** and playing **Volleyball**.
 

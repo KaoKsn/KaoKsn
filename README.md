@@ -1,8 +1,7 @@
 # Hello World! 👋 , I'm Kao
 
 I'm a **freshman** studying **Computer Science**.
-- Would love to explore: **Open Source**, **Low level System Programming**, **Software Development** and someday work in a **Research Position**.
-- Passionate about **Mathematics**, though still a beginner.
+- Would love to explore: **Open Source**, **Low level System Programming**, **Software Development**.
 - I'm excited to share my journey and projects as I continue to grow in these field.
 
 ## Currently Learning

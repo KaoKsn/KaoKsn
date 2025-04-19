@@ -7,7 +7,7 @@ I'm a **freshman** studying **Computer Science**.
 
 I’m currently learning the following:
 
-- **Programming Languages**: C, Bash.
+- **Programming Languages**: C, C++, Python.
 - **Development Tools**: Git, Vim, Linux CLI.
 - **Technologies**: Linux.
 
@@ -17,7 +17,7 @@ I’m currently learning the following:
 
 ## Other Interests.
 
-When I'm not learning computer science, I enjoy learning **mathematics** and **Touch Typing**.I enjoy following **Geopolitics and International Affairs** and playing **Volleyball**.
+I enjoy **Volleyball**.
 
 <!---
 KaoKsn/KaoKsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

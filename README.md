@@ -11,10 +11,6 @@ I’m currently learning the following:
 - **Development Tools**: Git, Vim, Linux CLI.
 - **Technologies**: Linux.
 
-## 🤝 Let's Connect:
-- Email: mayurakrishna.23@gmail.com
-- GitHub: https://github.com/KaoKsn/
-
 ## Other Interests.
 
 I enjoy **Volleyball**.

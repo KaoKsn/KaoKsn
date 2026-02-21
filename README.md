@@ -5,11 +5,11 @@ I'm a **sophomore** studying **Computer Science**.
 
 ## Currently Learning
 
-I’m currently learning the following:
+I use:
 
-- **Programming Languages**: C, Python.
-- **Development Tools**: Git, Nvim, Linux CLI.
-- **Technologies**: Linux.
+- **Programming Languages**: C, C++, Python.
+- **Development Tools**: Git, Nvim, Linux CLI, Docker.
+- **Technologies**: Linux, VirtualBox.
 
 
 <!---

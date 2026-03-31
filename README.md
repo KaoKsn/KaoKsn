@@ -7,9 +7,9 @@ I'm a **sophomore** studying **Computer Science**.
 
 I use:
 
-- **Programming Languages**: C, C++, Python.
-- **Development Tools**: Git, Nvim, Linux CLI, Docker.
-- **Technologies**: Linux, VirtualBox.
+- **Programming Languages**: C, C++(Learning), Rust(Learning), Java (University), Python.
+- **Development Tools**: Git, Nvim, Linux CLI(Bash), Docker.
+- **Technologies**: Linux, VirtualBox, Proxmox.
 
 
 <!---

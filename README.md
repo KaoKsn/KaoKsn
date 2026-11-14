@@ -4,6 +4,10 @@ I'm a **junior** studying **Computer Science**. I like free software.
 
 I Publish & Write [Here](https://rajimayur.me)
 
+I also host this website as a hidden service.
+
+So, if you prefer that use [Tor Link](http://4f3wa3xvlbwtexglurjojrmokln2ds74vzwxfuotycvfdvwd5l3ri4ad.onion) instead.
+
 ## Currently Learning / Using
 
 - **Programming Languages**: C, C++(Learning), Rust(Learning), Java (University), Python.

@@ -2,7 +2,7 @@
 
 I'm a **junior** studying **Computer Science**. I like free software.
 
-I Publish & Write [Here](https://rajimayur.me)
+I Publish & Write [Here](https://rajimayur.me). This site is hosted as cloudflare worker which some of you might not prefer if you are privacy conscious.
 
 I also host this website as a hidden service.
 
@@ -10,7 +10,7 @@ So, if you prefer that use [Tor Link](http://4f3wa3xvlbwtexglurjojrmokln2ds74vzw
 
 ## Currently Learning / Using
 
-- **Programming Languages**: C, C++(Learning), Rust(Learning), Java (University), Python.
+- **Programming Languages**: C, C++(Learning), Rust(Learning), Python, Java (University).
 - **Version Control**: Git
 - **Build Tools**: GNU Make(Learning), Cargo(Learning)
 - **Development Tools**: Nvim, Bash, GCC, Valgrind, GDB (Learning).
